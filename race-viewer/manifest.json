@@ -1,11 +1,11 @@
 {
-    "name": "A race viewer",
-    "short_name": "A race viewer",
+    "name": "Race viewer",
+    "short_name": "Race viewer",
     "start_url": "/race-viewer",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A race viewer",
+    "description": "Race viewer",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
